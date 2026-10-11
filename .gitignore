@@ -1,0 +1,9 @@
+BepInEx/
+*.dll
+*.log
+*.dat
+!config/local.cotl.camera-move.cfg
+*.png
+.vs/
+bin/
+obj/
